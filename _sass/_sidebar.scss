@@ -20,6 +20,7 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
+  background-color: black;
 }
 
 .masthead-title {
@@ -40,6 +41,11 @@
   font-size: 1.25rem;
   font-weight: 400;
   opacity: .7;
+  //background-color: rgba(0, 0, 0, 0.637);
+}
+
+.masthead-tagline small{
+  background-color: rgba(0, 0, 0, 0.767);
 }
 
 .navigation-list {
@@ -65,6 +71,7 @@
   &:focus {
     color: var(--link-hover-color);
   }
+  background-color: rgba(0, 0, 0, 0.767);
 }
 
 .social {

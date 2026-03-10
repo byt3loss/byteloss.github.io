@@ -1,11 +1,12 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: byt3loss
+description: Offensive Code & Pizza 🍕
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.png
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
+favicon: /avatar.png
 
 # Gems
 plugins:
@@ -35,8 +36,7 @@ logo: logo.png
 social:
   name: Songzi Vong
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/byt3loss
 google_site_verification: xxxxx
 lang: en
 
@@ -52,8 +52,10 @@ sass:
 # Replace this value and uncomment to enable Disqus
 # disqus: xxxxxx
 
+goat_counter: https://t.byteloss.dev/count
+
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Fabio
+  url: https://github.com/byt3loss/
+  email: fabio@byteloss.dev
