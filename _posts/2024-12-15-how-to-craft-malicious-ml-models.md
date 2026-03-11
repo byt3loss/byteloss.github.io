@@ -6,11 +6,9 @@ categories: [blog]
 tags: [ai]
 ---
 
-*An insight on how PyTorch malicious ML models work, how to weaponize them and the possible solutions for a developer or an end user to protect themselves.*
+*An insight on how PyTorch malicious ML models work, how to weaponize them and the possible solutions for developers and end users to protect themselves.*
 
 ![](/assets/images/htcmmlm_banner.jpeg)
-
-This article aims to give an insight on how PyTorch malicious ML models work, how they are created and the possible solutions for a developer or an end user to protect themselves.
 
 ## A brief insight on PyTorch and what could go wrong
 PyTorch is a Python library designed for machine learning tasks, offering an intuitive API for loading data, training models, and saving them efficiently.
