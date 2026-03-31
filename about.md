@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-Pentester with Blue Team background. CTFs player. Intrigued by writing scripts and automating tasks—especially if it involves hacking something.
+My name is Fabio, I'm a pentester with blue team background and CTFs player in my spare time. I'm intrigued by writing scripts and automating tasks—especially if it involves hacking something.
 
-I hold a [PWPP](https://certifications.tcm-sec.com/pwpp/) certification and currently studying mobile hacking to get [PMPA](https://certifications.tcm-sec.com/pmpa/) certified. 
+I hold a [PWPP](https://certifications.tcm-sec.com/pwpp/) certification and currently studying mobile hacking to get [PMPA](https://certifications.tcm-sec.com/pmpa/) certified.
 
 Besides english, my brain currently supports the following languages:
 - Italiano
