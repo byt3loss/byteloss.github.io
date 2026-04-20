@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTB Blurry - writeup
+title: HTB Blurry - Writeup
 date: 2024-11-03
 categories: [blog]
 tags: [ai, ctf]
